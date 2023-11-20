@@ -1,6 +1,6 @@
 //42 - abstract class
 
-abstract void Bike{
+abstract class Bike{
 	abstract void run();
 }
 
